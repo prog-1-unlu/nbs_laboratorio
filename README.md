@@ -1,1 +1,1 @@
-# nbs_laboratorio
+# Jupyter Notebooks de Programación 1
