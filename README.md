@@ -1,1 +1,1 @@
-# Jupyter Notebooks de Programación 1
+# Laboratorio de Jupyter Notebooks
